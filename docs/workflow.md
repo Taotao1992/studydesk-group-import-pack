@@ -59,8 +59,8 @@ Example:
 
 ```csv
 team_id,member_name,source_email,idnumber
-2,mark atkinson,U1178862@umail.usq.edu.au,0061178376
-20,Sabin Pandey,U1037606@umail.usq.edu.au,0061172795
+2,Alex Example,U1234567@umail.unisq.edu.au,0061234567
+20,Casey Sample,U2345678@umail.unisq.edu.au,0062345678
 ```
 
 Then rerun the builder with `--overrides`.
