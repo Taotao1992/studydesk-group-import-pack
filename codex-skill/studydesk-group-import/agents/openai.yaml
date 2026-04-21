@@ -1,0 +1,4 @@
+interface:
+  display_name: "StudyDesk Group Import"
+  short_description: "Prepare and import StudyDesk project groups"
+  default_prompt: "Use $studydesk-group-import to prepare and verify a StudyDesk group import from a team registration spreadsheet."
