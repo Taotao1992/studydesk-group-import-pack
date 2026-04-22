@@ -1,6 +1,6 @@
 # StudyDesk Group Import Pack
 
-English, shareable pack for preparing and importing project groups into StudyDesk/Moodle from a team-registration spreadsheet.
+Shareable pack for preparing and importing project groups into StudyDesk/Moodle from a team-registration spreadsheet.
 
 This pack is designed for mixed-tool teams:
 
